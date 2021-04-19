@@ -1,0 +1,306 @@
+.css-19rqlec {
+    flex-direction: column;
+    width: 100%;
+    min-width: 1024px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    z-index: 999;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    box-shadow: rgb(0, 0, 0 / 7%) 0px 4px 6px -1px;
+    transition-property: transform;
+    transition-duration: 280ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    height: 11px;
+}
+
+.css-1jzqg4i {
+    width: 100%;
+    display: flex;
+    height: 32px;
+    z-index: 3;
+    background-color: rgb(243, 244, 245);
+    border-bottom: 1px solid rgb(243, 243, 243);
+    padding: 0px 32px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    left: 0px;
+    right: 0px;
+}
+
+.css-1t2cza5 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    min-width: 168px;
+    margin-right: 16px;
+}
+
+.css-5nsulm {
+    width: 20px;
+    height: 20px;
+    background-image: url(https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/413cd754.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 60% 60%;
+    display: inline-block;
+}
+
+@media (min-width: 768px) {
+    .css-7k4lit {
+        margin: 0px 0px 0px 4px;
+    }
+}
+
+.css-7k4lit {
+    color: rgba(49, 53, 59, 0.68);
+    font-size: 12px;
+    line-height: 31px;
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    transition: color 200ms ease 0s;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px 0px 0px 4px;
+}
+
+.css-1s8dqy5 {
+    width: 96%;
+    left: 32px;
+    display: flex;
+    height: 56px;
+    top: 30px;
+    position: fixed;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-lays7ve {
+    width: 145px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 4px 0px 0px 4px;
+}
+
+.css-1qr7rcv {
+    height: 100%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 1px 8px 0px 10px;
+}
+
+.css-liy09lx {
+    width: 100%;
+    border-radius: 4px;
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    transition: background-color 280ms ease 0s;
+    padding: 8px;
+    height: 110px;
+}
+.css-vk082c {
+    font-size: 12px;
+    line-height: 1.5;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    transition: color 280ms ease 0s;
+    height: 30px;
+    width: 58px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    display: flex;
+    -webkit-font-smoothing: antialiased;
+}
+.css-vkrjwi {
+    display: flex;
+    width: 46%;
+    height: 56px;
+    min-height: 150px;
+}
+.css-w3ze74 {
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+}
+.css-lwwmre3 {
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid rgb(229, 231, 233);
+    -webkit-box-align: center;
+    align-items: center;
+    height: 32px;
+    border-radius: 8px;
+    transition: border 280ms ease 0s;
+    margin-top: 4px;
+}
+.css-lwwmre3 > div {
+    height: 100%;
+}
+.css-103lvbt {
+    width: 100%;
+    margin: 0px;
+}
+.css-103lvbt div {
+    height: 100%;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    border: none;
+}
+.css-rl8xd2 {
+    border-radius: 8px;
+    display: flex;
+    -webkit-box-flex: inherit;
+    flex-grow: inherit;
+    -webkit-box-align: stretch;
+    overflow: hidden;
+    transition: border-color 280ms ease 0s;
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(229, 231, 233);
+    flex-direction: row-reverse;
+}
+.css-103lvbt div button {
+    height: 100%;
+    flex: 0 0 32px;
+    width: 32px;
+}
+
+.css-1ymn4im {
+    border: none;
+    outline: none;
+    position: relative;
+    cursor: pointer;
+    padding: 0px;
+    transition: background-color 280ms ease 0s;
+    width: 40px;
+    background-color: rgb(243, 244, 245);
+    flex: 0 0 auto;
+}
+/* .css-1ymn4im::after {
+    content: '';
+    background-image: url(../img/loupe.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    inset: 0px;
+} */
+.css-rl8xd2 .e16vycsw0 {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.css-103lvbt div input {
+    border: 0px;
+    padding: 10px;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.css-4eg0ft {
+    min-width: 0px;
+    min-height: 0px;
+    width: 100%;
+    color: rgba(49, 53, 59, 0.96);
+    font-family: inherit;
+    background-color: transparent;
+    line-height: 22px;
+    outline: none;
+    height: auto;
+    font-size: 14px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.css-1sib086 {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px 4px 0px 20px;
+    z-index: 475;
+}
+.css-az4ufh {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    z-index: 2;
+    height: 58px;
+    margin: 0px 0px 0px 12px;
+}
+.css-1go1zqz {
+    width: 36px;
+    height: 30px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+}
+.css-15kuy91 {
+    background-position: 0px 0px;
+    width: 20px;
+    height: 20px;
+    background-image: url("https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/413cd754.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.css-12fn80l {
+    min-width: 20px;
+    min-height: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 1.6;
+    text-align: center;
+    background-color: rgb(239, 20, 74);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 18px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 0px 4px;
+    transform: translate(30%, -8%);
+}
+.css-1h3ruyk {
+    width: 20px;
+    height: 20px;
+    background-image: url("https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/413cd754.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 40% 40%;
+}
+.css-14tknib {
+    width: 20px;
+    height: 20px;
+    background-image: url("https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/413cd754.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 20% 20%;
+}
